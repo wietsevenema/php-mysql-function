@@ -1,0 +1,3 @@
+container/vendor
+.terraform
+terraform.tfstate*
